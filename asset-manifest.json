@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nuneun/static/js/main.c2bff80c.js",
+    "index.html": "/nuneun/index.html",
+    "main.c2bff80c.js.map": "/nuneun/static/js/main.c2bff80c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c2bff80c.js"
+  ]
+}
